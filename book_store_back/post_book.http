@@ -1,0 +1,4 @@
+POST http://localhost:8081/book
+content-type: application/json
+
+< book.json

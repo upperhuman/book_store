@@ -1,0 +1,23 @@
+{
+  "orderEntries": [
+    {
+      "bookName": "Pride and Prejudice",
+      "count": 5,
+      "cost": 5696.15
+    },
+    {
+      "bookName": "Harry Potter and the Philosopher's Stone",
+      "count": 3,
+      "cost": 3733.8900000000003
+    },
+    {
+      "bookName": "The Catcher in the Rye",
+      "count": 2,
+      "cost": 2078.46
+    }
+  ],
+  "date": "2024-02-27 21:11:50",
+  "state": "success",
+  "orderId": 360527485,
+  "username": "admin"
+}

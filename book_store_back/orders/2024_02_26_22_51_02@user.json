@@ -1,0 +1,23 @@
+{
+  "orderEntries": [
+    {
+      "bookName": "Harry Potter and the Philosopher's Stone",
+      "count": 1,
+      "cost": 1244.63
+    },
+    {
+      "bookName": "Frankenstein",
+      "count": 1,
+      "cost": 1639.24
+    },
+    {
+      "bookName": "1984",
+      "count": 1,
+      "cost": 1239.23
+    }
+  ],
+  "date": "2024-02-26 22:51:02",
+  "state": "success",
+  "orderId": 103778738,
+  "username": "user"
+}

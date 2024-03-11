@@ -1,0 +1,48 @@
+{
+  "page.home.title": "Книжковий магазин",
+  "increased.book.count": "Кількість книг зросла: ",
+  "book.count": ", к-сть: ",
+  "ntf.book_added_to_cart": "Книга додана в корзину: ",
+  "misc.auth.login.button": "Увійти",
+  "misc.app_bar.auth.prefix": "Ласкаво просимо, ",
+  "misc.app_bar.auth.logout": "Вийти",
+  "homepage.quick.search": "Швидкий пошук",
+  "homepage.quick.search.by.title": "Введіть назву книги",
+  "homepage.books.not.found": "Книг не знайдено",
+  "list.order": "Замовлення",
+
+  "login.dialog.username.can.not.be.empty": "Ім'я користувача не може бути порожнім",
+  "login.dialog.password.can.not.be.empty": "Пароль не може бути пустим",
+  "login.dialog.not.correct.password.or.username": "Не коректне Ім'я чи пароль",
+  "login.dialog.page.login": "Вхід",
+  "login.dialog.username": "Ім'я",
+  "login.dialog.password": "Пароль",
+  "login.dialog.login": "УВІЙТИ",
+
+  "page.edit_book": "Сторінка додавання книги",
+  "page.edit_book.enter.name": "Введіть назву книги",
+  "page.edit_book.enter.text": "Будьласка введіть текст",
+  "page.edit_book.enter.description": "Введіть опис книги",
+  "page.edit_book.enter.author": "Введіть автора книги",
+  "page.edit_book.enter.price": "Введіть ціну книги",
+  "page.edit_book.enter.num": "Будьласка введіть число",
+  "page.edit_book.upload.preview": "Завантажити обкладинку",
+  "page.edit_book.clear.preview": "Очистити обкладинку",
+  "submit": "Прийняти",
+
+
+  "page.shopping_cart.price": "Ціна за ",
+  "page.shopping_cart.of_books": "книжки: ",
+  "page.shopping_cart.is.empty": "Корзина порожня",
+  "page.shopping_cart": "Корзина",
+  "page.shopping_cart.order": "Замовити",
+  "need.to.login": "Вам треба залогінитись",
+  "book.name": "Назва книги",
+  "count": "Кількість книг",
+  "cost": "Ціна книг",
+  "order.submit": "Замовлення прийнято, ви можете переглянути його в історії замовлень",
+
+  "my.orders": "Мої замовлення",
+  "orders.not.found": "Замовлень не знайдено",
+  "order.cost": "Ціна замовлення"
+}

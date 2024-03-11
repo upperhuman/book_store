@@ -1,0 +1,48 @@
+{
+  "page.home.title": "Book Store",
+  "increased.book.count": "Book count increased: ",
+  "book.count": ", count: ",
+  "ntf.book_added_to_cart": "Book added to cart: ",
+  "misc.auth.login.button": "Log in",
+  "misc.app_bar.auth.prefix": "Welcome, ",
+  "misc.app_bar.auth.logout": "Logout",
+  "homepage.quick.search": "Quick Search",
+  "homepage.quick.search.by.title": "Enter book title",
+  "homepage.books.not.found": "No books found",
+  "list.order": "Orders",
+
+  "login.dialog.username.can.not.be.empty": "Username CAN'T be empty",
+  "login.dialog.password.can.not.be.empty": "Password CAN'T be empty",
+  "login.dialog.not.correct.password.or.username": "Not correct password or username",
+  "login.dialog.page.login": "Log in",
+  "login.dialog.username": "Username",
+  "login.dialog.password": "Password",
+  "login.dialog.login": "LOG IN",
+
+  "page.edit_book": "Add book page",
+  "page.edit_book.enter.name": "Enter name of book",
+  "page.edit_book.enter.text": "Please enter some text",
+  "page.edit_book.enter.description": "Please description of book",
+  "page.edit_book.enter.author": "'Enter author of book",
+  "page.edit_book.enter.price": "Enter price of book",
+  "page.edit_book.enter.num": "Please enter some number",
+  "page.edit_book.upload.preview": "Upload the preview",
+  "page.edit_book.clear.preview": "Clear preview",
+  "submit": "Submit",
+
+  "page.shopping_cart.price": "Price of ",
+  "page.shopping_cart.of_books": "books: ",
+  "page.shopping_cart.is.empty": "Shopping Cart is empty",
+  "page.shopping_cart": "Shopping Cart",
+  "page.shopping_cart.order": "To order",
+  "need.to.login": "You need to login",
+  "book.name": "Name of book",
+  "count": "Books count",
+  "cost": "Coast of books",
+  "order.submit": "Order submit now you can see that in order history",
+
+  "my.orders": "My orders",
+  "orders.not.found": "Orders not found",
+  "order.cost": "Cost of order"
+
+}
