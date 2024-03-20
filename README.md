@@ -8,6 +8,6 @@ project have frontend and backend parts:
 
 to start project you must launch file book_stpre_back/start.bat
 
-store have 2 registred users:
+store have 2 registered users:
 - admin: 123
 - user: 123
