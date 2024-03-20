@@ -7,3 +7,7 @@ project have frontend and backend parts:
 - back part compiled on path book_stpre_back/server.exe
 
 to start project you must launch file book_stpre_back/start.bat
+
+store have 2 registred users:
+- admin: 123
+- user: 123
